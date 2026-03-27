@@ -58,16 +58,6 @@ Copy and edit the environment file:
 cp .env.example .env
 ```
 
-Edit `.env`:
-
-```env
-MYSQL_HOST=localhost
-MYSQL_USER=root
-MYSQL_PASSWORD=your_password
-MYSQL_DB=grc_db
-SECRET_KEY=your_very_long_random_secret_key_here
-```
-
 ### 3. Seed the Database
 
 ```bash
